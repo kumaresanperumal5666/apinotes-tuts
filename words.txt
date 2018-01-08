@@ -38,5 +38,11 @@ There has been a gradual improvement in our sales figures over the last two year
 
 lockstep ->
 
+opacity,
+dereferencing,
+craft,
+nuance
+
+
 
 
