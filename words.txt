@@ -41,8 +41,9 @@ lockstep ->
 opacity,
 dereferencing,
 craft,
-nuance
-
+nuance,
+invariant,
+arbitrary,
 
 
 
