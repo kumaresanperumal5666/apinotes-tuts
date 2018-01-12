@@ -1,5 +1,5 @@
 
-concise,
+concise -> short and clear, expressing what needs to be said without unnecessary words:
 
 safe,
 
@@ -46,9 +46,27 @@ invariant,
 arbitrary,
 acquaint,
 overhead,
+counterparts,
+subtlety,
+delegate -> Delegation, in computing or computer programming, refers generally to one entity passing something to another entity,[1] and narrowly to various specific forms of relationships. These include:
+
+Delegation (object-oriented programming), evaluating a member of one object (the receiver) in the context of another, original object (the sender).
+Delegation pattern, a design pattern implementing this feature.
+Forwarding (object-oriented programming), an often-confused technique where a sending object uses the corresponding member of another object, without the receiving object having any knowledge of the original, sending object.
+Object aggregation or consultation, general term for one object using another.
+Delegation (computer security), one user or process allowing another user or process to use their credentials or permissions.
+Delegate (CLI), a form of type-safe function pointer used by the Common Language Infrastructure (CLI), specifying both a method to call and optionally an object to call the method on.
+
+fragile,
+forbid -> refuse to allow (something),
+redundant,
+implies,
+analogue,
 
 
 
+Generics:
+-----------
 List<String>
 
 listOf()
